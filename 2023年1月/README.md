@@ -4,7 +4,7 @@
 
 <iframe style="width:100%;aspect-ratio:16/9" src="https://player.bilibili.com/player.html?aid=265805150&bvid=BV1FY41197bV&cid=979209793&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-https://www.bilibili.com/video/BV1FY41197bV/
+[▶ BV1FY41197bV](https://www.bilibili.com/video/BV1FY41197bV/)
 
 OP「アルカンシェル」  
 演唱：花碳  
@@ -15,7 +15,7 @@ OP「アルカンシェル」
 
 <iframe style="width:100%;aspect-ratio:16/9" src="https://player.bilibili.com/player.html?aid=651527155&bvid=BV19e4y1A7GZ&cid=998690966&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-https://www.bilibili.com/video/BV19e4y1A7GZ/
+[▶ BV19e4y1A7GZ](https://www.bilibili.com/video/BV19e4y1A7GZ/)
 
 OP「灯火」  
 演唱：nonoc  
